@@ -31,7 +31,7 @@ These exercises helped in developing the final ResistiveMHDProject (see other re
   - Using C++ eigen library to solve sparse linear Solov'ev equation in 2D (axisymmetric case)
 
 <td>
-<img src="SolovEvPlots/solution.png" alt="Solov'Ev Plot" width="300"/>
+<img src="FIGURES/solution.png" alt="Solov'Ev Plot" width="300"/>
 <p align="left"><em>Figure 3: Sparse Linear solver solution to Solov'Ev equation</em></p>
 </td> 
 
