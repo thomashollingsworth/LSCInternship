@@ -20,7 +20,7 @@ These exercises helped in developing the final ResistiveMHDProject (see other re
       <p align="center"><em>Figure 1: Animation of sqrt(Bx^2 + By^2) / Bz (poloidal to toroidal field strength ratio) for Kelvin-Helmholtz Instability test using MUSCL-Hancock Scheme</em></p>
     </td>
     <td>
-      <img src="OrszangTangPlots/DensityGif.gif" alt="Orszang-Tang Animation" width="300"/><br/>
+      <img src="FIGURES/HighResDensityAni.gif" alt="Orszang-Tang Animation" width="300"/><br/>
       <p align="center"><em>Figure 2: Animation of Density for Orszang-Tang vortex using MUSCL-Hancock Scheme</em></p>
     </td>
   </tr>
