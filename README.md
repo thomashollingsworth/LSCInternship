@@ -1,4 +1,4 @@
-# Internship with Cambridge Laboratory for Scientific Computing
+# LSC INTERNSHIP EXERCISES
 A collection of introductory exercises I completed during my 2025 internship with the Cambridge LSC.
 These exercises helped in developing the final ResistiveMHDProject (see other repo).
 
