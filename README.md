@@ -16,8 +16,8 @@ These exercises helped in developing the final ResistiveMHDProject (see other re
 <table>
   <tr>
     <td>
-      <img src="KelvinHelmholtz/BxGif.gif" alt="Kelvin-Helmholtz Animation" width="300"/><br/>
-      <p align="center"><em>Figure 1: Animation of B_x field for Kelvin-Helmholtz Instability test using MUSCL-Hancock Scheme</em></p>
+      <img src="FIGURES/KHAni.gif" width="300"/><br/>
+      <p align="center"><em>Figure 1: Animation of sqrt(Bx^2 + By^2) / Bz (poloidal to toroidal field strength ratio) for Kelvin-Helmholtz Instability test using MUSCL-Hancock Scheme</em></p>
     </td>
     <td>
       <img src="OrszangTangPlots/DensityGif.gif" alt="Orszang-Tang Animation" width="300"/><br/>
