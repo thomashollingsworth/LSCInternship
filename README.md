@@ -1,4 +1,6 @@
 # Internship with Cambridge Laboratory for Scientific Computing
+A collection of introductory exercises I completed during my 2025 internship with the Cambridge LSC.
+These exercises helped in developing the final ResistiveMHDProject (see other repo).
 
 ## Solving Euler equations in 1D & 2D
   - Using Lax Friedrichs + Richtymer fluxes and First ORder CEntered (FORCE) scheme
